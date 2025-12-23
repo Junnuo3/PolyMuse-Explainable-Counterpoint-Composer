@@ -1,0 +1,23 @@
+# Build directories
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Google Services files with API keys (should not be committed)
+**/google-services.json
+**/GoogleService-Info.plist
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeUserPresets.json
+
