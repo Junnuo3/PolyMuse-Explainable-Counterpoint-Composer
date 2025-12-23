@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+8cf8ffc336bde1c16634a468bd2a9506 Counterpoints_artefacts/JuceLibraryCode/Counterpoints/PkgInfo
