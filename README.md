@@ -78,8 +78,6 @@ Source/
 └── MidiManager        # MIDI input/output
 ```
 
-The app is built with JUCE for cross-platform UI and audio. 
-
 ## Acknowledgments
 
 Built with the [JUCE framework](https://juce.com/).
